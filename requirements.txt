@@ -1,0 +1,5 @@
+dotenv
+transformers
+datasets
+torch
+torchvision
