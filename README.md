@@ -3,7 +3,7 @@
 
 This repository contains all the code and resources used for the **AI Workshop** session on **Hugging Face as a Platform for AI Services**, presented by *Mykhailo Shtopko*.
 
-## 🔍 Project overview
+## Project overview
 
 In this project:
 
@@ -14,7 +14,7 @@ In this project:
     - **Generation from Noise**: Sample new images from latent space,
     - **Interpolation**: Create smooth morphing GIFs between two images.
 
-## 🗂️ Project structure
+## Project structure
 
 - `/space/`: Gradio Space implementation (encoding, generation, interpolation)
 - `emoji_vae.ipynb`: Notebook for training & testing the VAE
@@ -31,7 +31,7 @@ git clone https://github.com/BioMikeUkr/AI-Workshop-HuggingFace.git
 
 4. To create the space, first create a new Space on Hugging Face, then drag and drop the contents of the space/ directory into the upload interface.
 
-## 🔗 Hugging Face links
+## Hugging Face links
 
 - **Model:** [BioMike/emoji_vae](https://huggingface.co/BioMike/emoji-vae-init)
 - **Dataset:** [BioMike/emoji-vae-dataset](https://huggingface.co/datasets/BioMike/emoji-vae-dataset)
